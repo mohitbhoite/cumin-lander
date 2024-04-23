@@ -14,6 +14,4 @@ You'll need to install [Arduino BSP for Adafruit Bluefruit nRF52 series](https:/
  - Graphics: [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library)
  - Memory: [Adafruit Flashtransport](https://github.com/adafruit/Adafruit_SPIFlash/tree/master)
 
-
-
-You'll need to install the above libraries on your Arduino IDE first. I used the Arduino IDE v1.8.13 to compile and flash the code on to the nRF52840. Other versions may or may not work.
+I used the Arduino IDE v1.8.13 to compile and flash the code on to the nRF52840. Other versions may or may not work.
